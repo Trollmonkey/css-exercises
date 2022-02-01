@@ -1,0 +1,14 @@
+/*Rule 1*/
+.uno,.dos {
+    font-size: 28px;
+    font-family:Helvetica,'Times New Roman', sans-serif;
+}
+/*Rule 2*/
+.uno {
+    background-color: black;
+    color:white;
+}
+/*Rule 3*/
+.dos {
+    background-color: yellow;
+}
